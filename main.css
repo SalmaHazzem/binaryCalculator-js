@@ -1,0 +1,42 @@
+
+.container {
+    background-color: #eee;
+    width: 40%;
+    padding: 5px;
+    position: absolute;
+    left: 32%;
+    top: 20%;
+
+}
+
+.res {
+    height: 89px;
+    background-color: #cfcfcf;
+    border: 2px solid black;
+    color: black;
+    font-size: 25px;
+}
+
+.btns {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.btn {
+    width: 23%;
+    background-color: black;
+    height: 36px;
+    color: white;
+    margin: 2px;
+    border: 1px gray solid;
+    text-align: center;
+    font-size: 25px;
+}
+.num {
+    background-color: #a5c6a5;
+}
+
+.op {
+    background-color: green;
+}
